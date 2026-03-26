@@ -1,1 +1,0 @@
-{"version":3,"file":"guard.js","sourceRoot":"","sources":["guard.ts"],"names":[],"mappings":"AAAA,MAAM,UAAU,aAAa,CAAC,CAAU;IACtC,OAAO,CAAC,YAAY,WAAW,CAAA;AACjC,CAAC","sourcesContent":["export function isHTMLElement(x: unknown): x is HTMLElement {\n  return x instanceof HTMLElement\n}\n"]}

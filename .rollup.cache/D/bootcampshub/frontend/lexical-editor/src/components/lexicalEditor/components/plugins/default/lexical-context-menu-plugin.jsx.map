@@ -1,1 +1,0 @@
-{"version":3,"file":"lexical-context-menu-plugin.jsx","sourceRoot":"","sources":["lexical-context-menu-plugin.tsx"],"names":[],"mappings":"AAAA,OAAO,EAAE,wBAAwB,EAAE,MAAM,yCAAyC,CAAA;AAElF,eAAe,wBAAwB,CAAA","sourcesContent":["import { LexicalContextMenuPlugin } from '@lexical/react/LexicalContextMenuPlugin'\n\nexport default LexicalContextMenuPlugin\n"]}

@@ -1,1 +1,0 @@
-{"version":3,"file":"lexical-typeahead-menu-plugin.js","sourceRoot":"","sources":["lexical-typeahead-menu-plugin.ts"],"names":[],"mappings":"AAAA,OAAO,EAAE,0BAA0B,EAAE,MAAM,2CAA2C,CAAA;AAEtF,eAAe,0BAA0B,CAAA","sourcesContent":["import { LexicalTypeaheadMenuPlugin } from '@lexical/react/LexicalTypeaheadMenuPlugin'\n\nexport default LexicalTypeaheadMenuPlugin\n"]}
